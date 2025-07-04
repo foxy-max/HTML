@@ -55,3 +55,10 @@ h1 {
   background-color: rgb(84, 196, 84);
   height: 44vh;
 }
+
+#banner{
+  margin-top: 0.1vh;
+  width: 100vw;
+  position: absolute;
+  top: 60vh;
+}
