@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+  flex: fit-content;
+  width: auto;
+}
+
+#titulo-div {
+  background-color: black;
+}
+
+#titulo-div h1 {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+
+header {
+  background-color: #ffff;
+  width: 100vw;
+  display: flex;
+  text-align: center;
+}
+
+header a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: large;
+  height: 8vh;
+}
+
+img {
+  width: 15vw;
+}
+
+figcaption {
+  width: 9vw;
+  text-align: end;
+}
+
+#carrosel-gatinhos {
+  display: flex;
+  padding-left: 5vw;
+}
+h1 {
+  text-align: center;
+  color: #ffff;
+}
+
+#fundo-carrosel {
+  background-color: rgb(84, 196, 84);
+  height: 44vh;
+}

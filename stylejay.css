@@ -1,0 +1,47 @@
+body {
+  background-color: #ff7979;
+}
+
+img {
+  width: 45vw;
+  border: 5px solid green;
+  margin: 5px;
+}
+
+figcaption {
+  width: 24vw;
+  text-align: end;
+  color: #ffff;
+  font-size: 3rem;
+}
+
+div {
+  display: flex;
+  padding-left: 5vw;
+}
+
+table,
+th,
+td {
+  border: 5px solid green;
+}
+
+th,
+td {
+  padding: 2vw;
+}
+
+th {
+  background-color: green;
+}
+
+td {
+  background-color: #fff;
+}
+
+table {
+  position: absolute;
+  top: 2vh;
+  left: 73vw;
+  
+}
